@@ -1,0 +1,1 @@
+<?php $base_url = "https://xn--c3cugh2av8euch0i4b2c.com";?>
